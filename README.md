@@ -1,12 +1,4 @@
-> **重要通知!! 由于Gitee更改了开源政策，本项目永久搁置Gitee action适配和开源计划，请不要自行上传到gitee和csdn，可能违反有关政策**
-
-> **归家后请修改home = 1 且确保地址信息填写完整，请持续关注本项目，合并最新代码以确保打卡信息正常**
-> 地址范例，请参照更改
-```
-
-[快速指引](https://xwwwb.github.io/zzulidakadocs/#/github_action?id=在校打卡)
-
-```
+> **请合并最新代码以确保打卡信息正常**很抱歉昨日的错误commit导致了数据异常，最新的commit已经彻底修复了问题而且不需要其它操作
 
 <h1 align="center">🎉郑州轻工业大学nCov健康打卡脚本🎉</h1>
 <hr />
@@ -18,8 +10,6 @@
 </div>
 <div align="center"><a target="_blank" href="https://xwwwb.github.io/zzulidakadocs">官网&&文档页</a> 
 <a target="_blank" href="https://github.com/xwwwb/ZzuliDakaWeb">自动打卡网站仓库！</a></div>
-
-有问题请提issue，能修复请发pr
 
 <h2>⚠风险提示和免责声明</h2>
 
@@ -58,8 +48,7 @@
 
 <h2>更新路线：</h2>
 <ul>
-<li>-[]2022寒假 django网站/data.json生成</li>
-<li>-[]2022寒假 requests替换selenium</li>
+<li>✅2022-07-20 适配最新表单</li>
 <li>✅2022-01-02 适配寒假居家打卡和未打疫苗的数据</li>
 <li>✅2021-11-15 再次适配新的打卡数据</li>
 <li>✅2021-11-04 已适配本轮郑州疫情最新的打卡数据</li>
